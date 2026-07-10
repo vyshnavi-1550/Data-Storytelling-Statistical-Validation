@@ -38,12 +38,6 @@ Testing → Statistical Results → Recommendations & Call to Action
 ## 🛠️ Tools Used
 Python (pandas, scipy), PowerPoint, Jupyter Notebook
 
-## 📋 Deliverables Checklist
-- [x] Data story synthesized from Parts 1-3
-- [x] Final presentation deck (PowerPoint)
-- [x] Hypothesis formulated and tested (T-test)
-- [x] GitHub repo with deck and hypothesis testing summary
-- [ ] LinkedIn video (7-10 min stakeholder presentation)
 
 ## 👤 Author
 Aggarapu Naga Vyshnavi — Internship Task 4, ApexPlanet Software Pvt. Ltd.
